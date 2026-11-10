@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Power Buttons</string>
+    <string name="service_description">Lets Power Buttons open the power menu and tap Restart or Power off for you.</string>
+</resources>
